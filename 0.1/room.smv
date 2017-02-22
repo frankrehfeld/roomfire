@@ -463,23 +463,68 @@ SLCF     1 %Middle of the room &     0    52     0    32    13    13
  TEMPERATURE
  temp
  C
-SLCF     1 %Window &    25    29    12    20    19    31
+SLCF     1 %Window Temp &    25    29    12    20    19    31
  room_0001_02.sf
- VELOCITY
- vel
- m/s
-SLCF     1 %Window &    25    29    12    20    19    31
+ TEMPERATURE
+ temp
+ C
+SLCF     1 %Window U &    26    26     0    32     0    31
  room_0001_03.sf
  U-VELOCITY
  U-VEL
  m/s
-SLCF     1 %Window &    25    29    12    20    19    31
+SLCF     1 %Window U &    26    26     0    32     0    31
  room_0001_04.sf
+ U-VELOCITY
+ U-VEL
+ m/s
+SLCF     1 %Window U &    26    26     0    32     0    31
+ room_0001_05.sf
  V-VELOCITY
  V-VEL
  m/s
-SLCF     1 %Window &    25    29    12    20    19    31
- room_0001_05.sf
+SLCF     1 %Window U &    26    26     0    32     0    31
+ room_0001_06.sf
+ W-VELOCITY
+ W-VEL
+ m/s
+SLCF     1 %Window V &     0    52    16    16     0    31
+ room_0001_07.sf
+ V-VELOCITY
+ V-VEL
+ m/s
+SLCF     1 %Window V &     0    52    16    16     0    31
+ room_0001_08.sf
+ U-VELOCITY
+ U-VEL
+ m/s
+SLCF     1 %Window V &     0    52    16    16     0    31
+ room_0001_09.sf
+ V-VELOCITY
+ V-VEL
+ m/s
+SLCF     1 %Window V &     0    52    16    16     0    31
+ room_0001_10.sf
+ W-VELOCITY
+ W-VEL
+ m/s
+SLCF     1 %Window W &     0    52     0    32    22    22
+ room_0001_11.sf
+ W-VELOCITY
+ W-VEL
+ m/s
+SLCF     1 %Window W &     0    52     0    32    22    22
+ room_0001_12.sf
+ U-VELOCITY
+ U-VEL
+ m/s
+SLCF     1 %Window W &     0    52     0    32    22    22
+ room_0001_13.sf
+ V-VELOCITY
+ V-VEL
+ m/s
+SLCF     1 %Window W &     0    52     0    32    22    22
+ room_0001_14.sf
  W-VELOCITY
  W-VEL
  m/s
@@ -493,23 +538,68 @@ SMOKF3D     2
  HRRPUV
  hrrpuv
  kW/m3
-SLCF     2 %Window &     0     8     0    16     0    24
+SLCF     2 %Window Temp &     0     8     0    16     0    24
  room_0002_01.sf
- VELOCITY
- vel
- m/s
-SLCF     2 %Window &     0     8     0    16     0    24
+ TEMPERATURE
+ temp
+ C
+SLCF     2 %Window U &     2     2     0    16     0    24
  room_0002_02.sf
  U-VELOCITY
  U-VEL
  m/s
-SLCF     2 %Window &     0     8     0    16     0    24
+SLCF     2 %Window U &     2     2     0    16     0    24
  room_0002_03.sf
+ U-VELOCITY
+ U-VEL
+ m/s
+SLCF     2 %Window U &     2     2     0    16     0    24
+ room_0002_04.sf
  V-VELOCITY
  V-VEL
  m/s
-SLCF     2 %Window &     0     8     0    16     0    24
- room_0002_04.sf
+SLCF     2 %Window U &     2     2     0    16     0    24
+ room_0002_05.sf
+ W-VELOCITY
+ W-VEL
+ m/s
+SLCF     2 %Window V &     0     8     8     8     0    24
+ room_0002_06.sf
+ V-VELOCITY
+ V-VEL
+ m/s
+SLCF     2 %Window V &     0     8     8     8     0    24
+ room_0002_07.sf
+ U-VELOCITY
+ U-VEL
+ m/s
+SLCF     2 %Window V &     0     8     8     8     0    24
+ room_0002_08.sf
+ V-VELOCITY
+ V-VEL
+ m/s
+SLCF     2 %Window V &     0     8     8     8     0    24
+ room_0002_09.sf
+ W-VELOCITY
+ W-VEL
+ m/s
+SLCF     2 %Window W &     0     8     0    16     5     5
+ room_0002_10.sf
+ W-VELOCITY
+ W-VEL
+ m/s
+SLCF     2 %Window W &     0     8     0    16     5     5
+ room_0002_11.sf
+ U-VELOCITY
+ U-VEL
+ m/s
+SLCF     2 %Window W &     0     8     0    16     5     5
+ room_0002_12.sf
+ V-VELOCITY
+ V-VEL
+ m/s
+SLCF     2 %Window W &     0     8     0    16     5     5
+ room_0002_13.sf
  W-VELOCITY
  W-VEL
  m/s

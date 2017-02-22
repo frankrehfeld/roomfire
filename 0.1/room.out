@@ -1,7 +1,7 @@
 
  Fire Dynamics Simulator
 
- Current Date     : February 22, 2017  20:26:04
+ Current Date     : February 22, 2017  20:48:46
  Version          : FDS 6.5.3
  Revision         : FDS6.5.3-801-ga75adfa
  Revision Date    : Mon Feb 20 14:43:26 2017 -0500
@@ -289,20 +289,38 @@
    Sampling Interval (s)             0.040
 
    1 Nodes:   0  52   0  32  13  13, Quantity: TEMPERATURE
-   2 Nodes:  25  29  12  20  19  31, Quantity: VELOCITY
-   3 Nodes:  25  29  12  20  19  31, Quantity: U-VELOCITY
-   4 Nodes:  25  29  12  20  19  31, Quantity: V-VELOCITY
-   5 Nodes:  25  29  12  20  19  31, Quantity: W-VELOCITY
+   2 Nodes:  25  29  12  20  19  31, Quantity: TEMPERATURE
+   3 Nodes:  26  26   0  32   0  31, Quantity: U-VELOCITY
+   4 Nodes:  26  26   0  32   0  31, Quantity: U-VELOCITY
+   5 Nodes:  26  26   0  32   0  31, Quantity: V-VELOCITY
+   6 Nodes:  26  26   0  32   0  31, Quantity: W-VELOCITY
+   7 Nodes:   0  52  16  16   0  31, Quantity: V-VELOCITY
+   8 Nodes:   0  52  16  16   0  31, Quantity: U-VELOCITY
+   9 Nodes:   0  52  16  16   0  31, Quantity: V-VELOCITY
+  10 Nodes:   0  52  16  16   0  31, Quantity: W-VELOCITY
+  11 Nodes:   0  52   0  32  22  22, Quantity: W-VELOCITY
+  12 Nodes:   0  52   0  32  22  22, Quantity: U-VELOCITY
+  13 Nodes:   0  52   0  32  22  22, Quantity: V-VELOCITY
+  14 Nodes:   0  52   0  32  22  22, Quantity: W-VELOCITY
 
 
  Slice File Information, Mesh     2
 
    Sampling Interval (s)             0.040
 
-   1 Nodes:   0   8   0  16   0  24, Quantity: VELOCITY
-   2 Nodes:   0   8   0  16   0  24, Quantity: U-VELOCITY
-   3 Nodes:   0   8   0  16   0  24, Quantity: V-VELOCITY
-   4 Nodes:   0   8   0  16   0  24, Quantity: W-VELOCITY
+   1 Nodes:   0   8   0  16   0  24, Quantity: TEMPERATURE
+   2 Nodes:   2   2   0  16   0  24, Quantity: U-VELOCITY
+   3 Nodes:   2   2   0  16   0  24, Quantity: U-VELOCITY
+   4 Nodes:   2   2   0  16   0  24, Quantity: V-VELOCITY
+   5 Nodes:   2   2   0  16   0  24, Quantity: W-VELOCITY
+   6 Nodes:   0   8   8   8   0  24, Quantity: V-VELOCITY
+   7 Nodes:   0   8   8   8   0  24, Quantity: U-VELOCITY
+   8 Nodes:   0   8   8   8   0  24, Quantity: V-VELOCITY
+   9 Nodes:   0   8   8   8   0  24, Quantity: W-VELOCITY
+  10 Nodes:   0   8   0  16   5   5, Quantity: W-VELOCITY
+  11 Nodes:   0   8   0  16   5   5, Quantity: U-VELOCITY
+  12 Nodes:   0   8   0  16   5   5, Quantity: V-VELOCITY
+  13 Nodes:   0   8   0  16   5   5, Quantity: W-VELOCITY
 
 
  Radiation Model Information
@@ -326,7 +344,7 @@
 
  Run Time Diagnostics
 
-       Time Step       1   February 22, 2017  20:26:04
+       Time Step       1   February 22, 2017  20:48:46
        Step Size:    0.449E+00 s, Total Time:       0.45 s
        Pressure Iterations:      2
        Maximum Velocity Error:  0.26E+00 on Mesh   1 at (  17  27   1)
@@ -345,7 +363,7 @@
        Min divergence: -0.11E-05 at (   7,   7,  23)
        Max VN number:   0.14E-02 at (   2,   6,   2)
 
-       Time Step       2   February 22, 2017  20:26:05
+       Time Step       2   February 22, 2017  20:48:47
        Step Size:    0.316E+00 s, Total Time:       0.76 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.12E+00 on Mesh   1 at (   7  16   1)
@@ -364,7 +382,7 @@
        Min divergence: -0.11E-05 at (   3,   4,   1)
        Max VN number:   0.15E-02 at (   2,   1,   1)
 
-       Time Step       3   February 22, 2017  20:26:05
+       Time Step       3   February 22, 2017  20:48:47
        Step Size:    0.278E+00 s, Total Time:       1.04 s
        Pressure Iterations:      5
        Maximum Velocity Error:  0.91E-01 on Mesh   2 at (   3   1   1)
@@ -383,7 +401,7 @@
        Min divergence: -0.12E-04 at (   3,   6,   1)
        Max VN number:   0.33E-02 at (   2,   4,   3)
 
-       Time Step       4   February 22, 2017  20:26:05
+       Time Step       4   February 22, 2017  20:48:47
        Step Size:    0.278E+00 s, Total Time:       1.32 s
        Pressure Iterations:      6
        Maximum Velocity Error:  0.11E+00 on Mesh   2 at (   3   1   1)
@@ -402,7 +420,7 @@
        Min divergence: -0.27E-04 at (   3,   6,   1)
        Max VN number:   0.11E-01 at (   2,   4,   3)
 
-       Time Step       5   February 22, 2017  20:26:05
+       Time Step       5   February 22, 2017  20:48:48
        Step Size:    0.306E+00 s, Total Time:       1.63 s
        Pressure Iterations:      2
        Maximum Velocity Error:  0.13E+00 on Mesh   2 at (   1   1  13)
@@ -421,7 +439,7 @@
        Min divergence: -0.52E-04 at (   3,   9,   1)
        Max VN number:   0.27E-01 at (   2,   4,   3)
 
-       Time Step       6   February 22, 2017  20:26:06
+       Time Step       6   February 22, 2017  20:48:48
        Step Size:    0.306E+00 s, Total Time:       1.93 s
        Pressure Iterations:      5
        Maximum Velocity Error:  0.16E+00 on Mesh   1 at (   7  16   1)
@@ -440,7 +458,7 @@
        Min divergence: -0.78E-04 at (   3,   9,   1)
        Max VN number:   0.47E-01 at (   2,   4,   3)
 
-       Time Step       7   February 22, 2017  20:26:06
+       Time Step       7   February 22, 2017  20:48:48
        Step Size:    0.336E+00 s, Total Time:       2.27 s
        Pressure Iterations:      4
        Maximum Velocity Error:  0.21E+00 on Mesh   1 at (  17   7   1)
@@ -459,7 +477,7 @@
        Min divergence: -0.12E-03 at (   3,  11,   2)
        Max VN number:   0.80E-01 at (   2,   4,   3)
 
-       Time Step       8   February 22, 2017  20:26:06
+       Time Step       8   February 22, 2017  20:48:48
        Step Size:    0.370E+00 s, Total Time:       2.64 s
        Pressure Iterations:      6
        Maximum Velocity Error:  0.18E+00 on Mesh   1 at (  17  27   1)
@@ -478,7 +496,7 @@
        Min divergence: -0.17E-03 at (   3,  11,   2)
        Max VN number:   0.12E+00 at (   2,   4,   3)
 
-       Time Step       9   February 22, 2017  20:26:07
+       Time Step       9   February 22, 2017  20:48:49
        Step Size:    0.351E+00 s, Total Time:       2.99 s
        Pressure Iterations:      6
        Maximum Velocity Error:  0.30E+00 on Mesh   1 at (  17   7   1)
@@ -497,7 +515,7 @@
        Min divergence: -0.21E-03 at (   3,  11,   2)
        Max VN number:   0.16E+00 at (   2,   4,   3)
 
-       Time Step      10   February 22, 2017  20:26:07
+       Time Step      10   February 22, 2017  20:48:49
        Step Size:    0.351E+00 s, Total Time:       3.34 s
        Pressure Iterations:      7
        Maximum Velocity Error:  0.87E-01 on Mesh   1 at (   7  26   1)
@@ -516,7 +534,7 @@
        Min divergence: -0.24E-03 at (   3,  11,   2)
        Max VN number:   0.19E+00 at (   2,  13,   3)
 
-       Time Step      20   February 22, 2017  20:26:11
+       Time Step      20   February 22, 2017  20:48:53
        Step Size:    0.162E+00 s, Total Time:       5.92 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.22E+00 on Mesh   1 at (  17   7   1)
@@ -535,7 +553,7 @@
        Min divergence: -0.89E-03 at (   2,  11,   9)
        Max VN number:   0.26E+00 at (   2,  13,   3)
 
-       Time Step      30   February 22, 2017  20:26:14
+       Time Step      30   February 22, 2017  20:48:57
        Step Size:    0.110E+00 s, Total Time:       7.36 s
        Pressure Iterations:      6
        Maximum Velocity Error:  0.91E-01 on Mesh   2 at (   3  16   5)
@@ -554,7 +572,7 @@
        Min divergence: -0.20E-02 at (   2,   9,   9)
        Max VN number:   0.34E+00 at (   2,  14,   6)
 
-       Time Step      40   February 22, 2017  20:26:18
+       Time Step      40   February 22, 2017  20:49:01
        Step Size:    0.855E-01 s, Total Time:       8.34 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.64E-01 on Mesh   1 at (  17   7   1)
@@ -573,7 +591,7 @@
        Min divergence: -0.26E-02 at (   2,  10,   9)
        Max VN number:   0.37E+00 at (   2,  14,   8)
 
-       Time Step      50   February 22, 2017  20:26:22
+       Time Step      50   February 22, 2017  20:49:05
        Step Size:    0.662E-01 s, Total Time:       9.13 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.11E+00 on Mesh   2 at (   2  16  13)
@@ -592,7 +610,7 @@
        Min divergence: -0.33E-02 at (   2,   6,   9)
        Max VN number:   0.37E+00 at (   4,  13,   3)
 
-       Time Step      60   February 22, 2017  20:26:25
+       Time Step      60   February 22, 2017  20:49:09
        Step Size:    0.519E-01 s, Total Time:       9.71 s
        Pressure Iterations:      9
        Maximum Velocity Error:  0.10E+00 on Mesh   2 at (   3  16  12)
@@ -611,7 +629,7 @@
        Min divergence: -0.45E-02 at (   2,   6,   9)
        Max VN number:   0.39E+00 at (   2,  14,   4)
 
-       Time Step      70   February 22, 2017  20:26:29
+       Time Step      70   February 22, 2017  20:49:13
        Step Size:    0.364E-01 s, Total Time:      10.13 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.11E+00 on Mesh   1 at (  17  27   2)
@@ -630,7 +648,7 @@
        Min divergence: -0.58E-02 at (   2,   6,   9)
        Max VN number:   0.37E+00 at (   4,   4,   8)
 
-       Time Step      80   February 22, 2017  20:26:33
+       Time Step      80   February 22, 2017  20:49:17
        Step Size:    0.324E-01 s, Total Time:      10.48 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.36E-01 on Mesh   2 at (   3   5  12)
@@ -649,7 +667,7 @@
        Min divergence: -0.67E-02 at (   2,   8,   9)
        Max VN number:   0.41E+00 at (   4,   4,   8)
 
-       Time Step      90   February 22, 2017  20:26:37
+       Time Step      90   February 22, 2017  20:49:21
        Step Size:    0.290E-01 s, Total Time:      10.79 s
        Pressure Iterations:      8
        Maximum Velocity Error:  0.60E-01 on Mesh   2 at (   3   1   1)
@@ -668,7 +686,7 @@
        Min divergence: -0.72E-02 at (   2,   8,   9)
        Max VN number:   0.37E+00 at (   2,  14,   8)
 
-       Time Step     100   February 22, 2017  20:26:41
+       Time Step     100   February 22, 2017  20:49:25
        Step Size:    0.290E-01 s, Total Time:      11.08 s
        Pressure Iterations:      8
        Maximum Velocity Error:  0.43E-01 on Mesh   2 at (   2   1  13)
@@ -687,7 +705,7 @@
        Min divergence: -0.68E-02 at (   2,  11,   8)
        Max VN number:   0.36E+00 at (   2,   9,   9)
 
-       Time Step     200   February 22, 2017  20:27:17
+       Time Step     200   February 22, 2017  20:50:03
        Step Size:    0.304E-01 s, Total Time:      14.23 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.51E-01 on Mesh   1 at (  17  27   1)
@@ -706,7 +724,7 @@
        Min divergence: -0.28E-01 at (   2,  11,   3)
        Max VN number:   0.39E+00 at (   2,  14,   7)
 
-       Time Step     300   February 22, 2017  20:27:55
+       Time Step     300   February 22, 2017  20:50:44
        Step Size:    0.191E-01 s, Total Time:      16.58 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.16E+00 on Mesh   1 at (  20  16  26)
@@ -725,7 +743,7 @@
        Min divergence: -0.15E+01 at (   8,   8,   8)
        Max VN number:   0.37E+00 at (   2,  14,   6)
 
-       Time Step     400   February 22, 2017  20:28:32
+       Time Step     400   February 22, 2017  20:51:22
        Step Size:    0.134E-01 s, Total Time:      18.18 s
        Pressure Iterations:      5
        Maximum Velocity Error:  0.12E+01 on Mesh   2 at (   3   1   6)
@@ -744,7 +762,7 @@
        Min divergence: -0.30E+01 at (   2,  11,   2)
        Max VN number:   0.41E+00 at (   3,  12,   2)
 
-       Time Step     500   February 22, 2017  20:29:12
+       Time Step     500   February 22, 2017  20:52:02
        Step Size:    0.159E-01 s, Total Time:      19.66 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.16E+00 on Mesh   1 at (  19  17  26)
@@ -763,7 +781,7 @@
        Min divergence: -0.13E+01 at (   2,  13,   2)
        Max VN number:   0.42E+00 at (   2,  14,   7)
 
-       Time Step     600   February 22, 2017  20:29:52
+       Time Step     600   February 22, 2017  20:52:43
        Step Size:    0.121E-01 s, Total Time:      20.96 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.36E+00 on Mesh   2 at (   3   1   7)
@@ -782,7 +800,7 @@
        Min divergence: -0.31E+01 at (   3,  13,   8)
        Max VN number:   0.50E+00 at (   2,  10,   9)
 
-       Time Step     700   February 22, 2017  20:30:31
+       Time Step     700   February 22, 2017  20:53:23
        Step Size:    0.104E-01 s, Total Time:      21.99 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.45E+00 on Mesh   1 at (  19  18  26)
@@ -801,7 +819,7 @@
        Min divergence: -0.32E+01 at (   3,  13,   8)
        Max VN number:   0.43E+00 at (   2,  11,   9)
 
-       Time Step     800   February 22, 2017  20:31:09
+       Time Step     800   February 22, 2017  20:54:02
        Step Size:    0.124E-01 s, Total Time:      23.04 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.22E+00 on Mesh   1 at (  16  12  26)
@@ -820,7 +838,7 @@
        Min divergence: -0.26E+01 at (   4,  11,   9)
        Max VN number:   0.39E+00 at (   2,  10,   9)
 
-       Time Step     900   February 22, 2017  20:31:48
+       Time Step     900   February 22, 2017  20:54:42
        Step Size:    0.135E-01 s, Total Time:      24.34 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.21E+00 on Mesh   2 at (   3   1   6)
@@ -839,7 +857,7 @@
        Min divergence: -0.66E+01 at (   3,   5,   1)
        Max VN number:   0.54E+00 at (   2,   9,   9)
 
-       Time Step    1000   February 22, 2017  20:32:27
+       Time Step    1000   February 22, 2017  20:55:22
        Step Size:    0.197E-01 s, Total Time:      25.97 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.11E+00 on Mesh   2 at (   3   8   1)
@@ -858,7 +876,7 @@
        Min divergence: -0.15E+01 at (   4,   3,   5)
        Max VN number:   0.45E+00 at (   2,   8,   9)
 
-       Time Step    1100   February 22, 2017  20:33:07
+       Time Step    1100   February 22, 2017  20:56:03
        Step Size:    0.159E-01 s, Total Time:      27.68 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.98E-01 on Mesh   2 at (   3   2   6)
@@ -877,7 +895,7 @@
        Min divergence: -0.23E+01 at (   3,   4,   8)
        Max VN number:   0.45E+00 at (   2,  10,   9)
 
-       Time Step    1200   February 22, 2017  20:33:46
+       Time Step    1200   February 22, 2017  20:56:43
        Step Size:    0.174E-01 s, Total Time:      29.27 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.17E+00 on Mesh   2 at (   1   8  13)
@@ -896,7 +914,7 @@
        Min divergence: -0.23E+01 at (   3,  13,   8)
        Max VN number:   0.50E+00 at (   2,   8,   9)
 
-       Time Step    1300   February 22, 2017  20:34:23
+       Time Step    1300   February 22, 2017  20:57:21
        Step Size:    0.156E-01 s, Total Time:      30.87 s
        Pressure Iterations:      4
        Maximum Velocity Error:  0.83E+00 on Mesh   2 at (   3   1   6)
@@ -915,7 +933,7 @@
        Min divergence: -0.30E+01 at (   3,  13,   8)
        Max VN number:   0.39E+00 at (   2,  14,   7)
 
-       Time Step    1400   February 22, 2017  20:35:00
+       Time Step    1400   February 22, 2017  20:57:59
        Step Size:    0.187E-01 s, Total Time:      32.49 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.14E+00 on Mesh   2 at (   3  11   1)
@@ -934,7 +952,7 @@
        Min divergence: -0.18E+01 at (   3,   4,   5)
        Max VN number:   0.50E+00 at (   2,  10,   9)
 
-       Time Step    1500   February 22, 2017  20:35:39
+       Time Step    1500   February 22, 2017  20:58:39
        Step Size:    0.202E-01 s, Total Time:      34.33 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.73E-01 on Mesh   2 at (   3   8  12)
@@ -953,7 +971,7 @@
        Min divergence: -0.17E+01 at (   3,  13,   8)
        Max VN number:   0.37E+00 at (   2,  14,   7)
 
-       Time Step    1600   February 22, 2017  20:36:17
+       Time Step    1600   February 22, 2017  20:59:19
        Step Size:    0.197E-01 s, Total Time:      36.33 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.12E+00 on Mesh   2 at (   3   1   7)
@@ -972,7 +990,7 @@
        Min divergence: -0.17E+01 at (   3,  12,   8)
        Max VN number:   0.51E+00 at (   2,  10,   9)
 
-       Time Step    1700   February 22, 2017  20:36:54
+       Time Step    1700   February 22, 2017  20:59:58
        Step Size:    0.210E-01 s, Total Time:      38.33 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.70E-01 on Mesh   2 at (   3   1   6)
@@ -991,7 +1009,7 @@
        Min divergence: -0.14E+01 at (   3,  13,   3)
        Max VN number:   0.41E+00 at (   2,  10,   9)
 
-       Time Step    1788   February 22, 2017  20:37:29
+       Time Step    1788   February 22, 2017  21:00:34
        Step Size:    0.759E-02 s, Total Time:      40.00 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.16E+00 on Mesh   2 at (   3  14  12)
@@ -1012,7 +1030,7 @@
 
 
 
- Time Stepping Wall Clock Time (s):      685.727
- Total Elapsed Wall Clock Time (s):      689.732
+ Time Stepping Wall Clock Time (s):      708.368
+ Total Elapsed Wall Clock Time (s):      712.404
 
 STOP: FDS completed successfully (CHID: room)
