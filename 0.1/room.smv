@@ -2,8 +2,8 @@ TITLE
  room fire
 
 FDSVERSION
-FDS 6.4.0
-Git-r10-48-g5996289
+FDS 6.5.3
+FDS6.5.3-801-ga75adfa
 
 ENDF
  room.end
@@ -111,6 +111,12 @@ SURFACE
  0      1.00000      1.00000      1.00000      0.80000      0.40000      1.00000
  null                                                        
 
+SURFACE
+ PERIODIC WIND                                               
+ 5000.00    1.00
+ 0      1.00000      1.00000      1.00000      0.80000      0.40000      1.00000
+ null                                                        
+
 OUTLINE
   32
       -60.0000      -60.0000        0.0000      -60.0000      -60.0000      190.0000
@@ -154,7 +160,15 @@ HRRPUVCUT
       4.00000
 
 RAMP
-    0
+    2
+ RAMP: ASSUMED TEMPERATURE PROFILE                                 
+    2
+  0.0000      1.0000    
+  310.00      1.0000    
+ RAMP: COMPUTED PRESSURE PROFILE                                   
+    2
+  0.0000      1.0000    
+  310.00      1.0000    
 
 PROP
  null
