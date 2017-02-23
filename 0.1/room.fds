@@ -3,7 +3,7 @@
 &TIME T_END=40. /
 
 &MESH ID='whole mesh', IJK=52,32,31, XB=-60.,460.,-60.,260.,0.,310. /
-&MESH ID='window', IJK=8,16,24, XB=190.,230.,60.,140.,190.,310. /
+&MESH ID='window', IJK=20,40,60, XB=190.,230.,60.,140.,190.,310. /
 
 &OBST XB=0.  ,200.,0.  ,0.  ,0.  ,250. / Front
 &OBST XB=0.  ,200.,200.,200.,0.  ,250. / Back
@@ -39,7 +39,6 @@
 &DUMP DT_SL3D=0.1 /
 
 &SLCF PBZ=125., QUANTITY='TEMPERATURE', ID='Middle of the room'/
-&SLCF XB=190.,230.,60.,140.,190.,310., QUANTITY='TEMPERATURE', ID='Window Temp' /
 &SLCF PBX=200., QUANTITY='U-VELOCITY', ID='Window U', VECTOR=.TRUE. /
 &SLCF PBY=100., QUANTITY='V-VELOCITY', ID='Window V', VECTOR=.TRUE. /
 &SLCF PBZ=215., QUANTITY='W-VELOCITY', ID='Window W', VECTOR=.TRUE. /
