@@ -1,6 +1,6 @@
 &HEAD CHID='room', TITLE='room fire' /
 
-&TIME T_END=0. /
+&TIME T_END=40. /
 
 &MESH ID='first mesh',   IJK=25,32,31, XB=-60.,190.,-60.,260.,0.  ,310. /
 &MESH ID='window under', IJK=4,8,19,   XB=190.,230.,60. ,140.,0.  ,190. /
@@ -42,7 +42,7 @@
 
 &DUMP DT_SL3D=0.1 /
 
-&SLCF PBZ=230., QUANTITY='TEMPERATURE', ID='Middle of the room'/
+&SLCF PBZ=230., QUANTITY='TEMPERATURE', ID='top of window'/
 
 &TAIL /
 
