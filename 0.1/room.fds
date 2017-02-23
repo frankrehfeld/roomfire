@@ -1,9 +1,13 @@
 &HEAD CHID='room', TITLE='room fire' /
 
-&TIME T_END=40. /
+&TIME T_END=0. /
 
-&MESH ID='whole mesh', IJK=52,32,31, XB=-60.,460.,-60.,260.,0.,310. /
-&MESH ID='window', IJK=20,40,60, XB=190.,230.,60.,140.,190.,310. /
+&MESH ID='first mesh',   IJK=25,32,31, XB=-60.,190.,-60.,260.,0.  ,310. /
+&MESH ID='window under', IJK=4,8,19,   XB=190.,230.,60. ,140.,0.  ,190. /
+&MESH ID='window',       IJK=20,40,60, XB=190.,230.,60. ,140.,190.,310. /
+&MESH ID='window right', IJK=4,12,31,  XB=190.,230.,-60.,60. ,0.  ,310. /
+&MESH ID='window left',  IJK=4,12,31,  XB=190.,230.,140.,260.,0.  ,310. /
+&MESH ID='second mesh',  IJK=23,32,31, XB=230.,460.,-60.,260.,0.  ,310. /
 
 &OBST XB=0.  ,200.,0.  ,0.  ,0.  ,250. / Front
 &OBST XB=0.  ,200.,200.,200.,0.  ,250. / Back
@@ -38,11 +42,7 @@
 
 &DUMP DT_SL3D=0.1 /
 
-&SLCF PBZ=125., QUANTITY='TEMPERATURE', ID='Middle of the room'/
-&SLCF PBX=200., QUANTITY='U-VELOCITY', ID='Window U', VECTOR=.TRUE. /
-&SLCF PBY=100., QUANTITY='V-VELOCITY', ID='Window V', VECTOR=.TRUE. /
-&SLCF PBZ=215., QUANTITY='W-VELOCITY', ID='Window W', VECTOR=.TRUE. /
-
+&SLCF PBZ=230., QUANTITY='TEMPERATURE', ID='Middle of the room'/
 
 &TAIL /
 
