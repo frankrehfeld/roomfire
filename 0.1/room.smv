@@ -874,11 +874,6 @@ SMOKF3D     1
  HRRPUV
  hrrpuv
  kW/m3
-SLCF     1 %top of window &     0    25     0    32    23    23
- room_0001_01.sf
- TEMPERATURE
- temp
- C
 SMOKF3D     2
  room_0002_01.s3d
  SOOT MASS FRACTION
@@ -889,6 +884,16 @@ SMOKF3D     2
  HRRPUV
  hrrpuv
  kW/m3
+SLCF     2 %window density &     1     1     0     8     0    19
+ room_0002_01.sf
+ DENSITY
+ rho
+ kg/m3
+SLCF     2 %window pressure &     1     1     0     8     0    19
+ room_0002_02.sf
+ PRESSURE
+ pres
+ Pa
 SMOKF3D     3
  room_0003_01.s3d
  SOOT MASS FRACTION
@@ -899,11 +904,16 @@ SMOKF3D     3
  HRRPUV
  hrrpuv
  kW/m3
-SLCF     3 %top of window &     0    20     0    40    20    20
+SLCF     3 %window density &     5     5     0    40     0    60
  room_0003_01.sf
- TEMPERATURE
- temp
- C
+ DENSITY
+ rho
+ kg/m3
+SLCF     3 %window pressure &     5     5     0    40     0    60
+ room_0003_02.sf
+ PRESSURE
+ pres
+ Pa
 SMOKF3D     4
  room_0004_01.s3d
  SOOT MASS FRACTION
@@ -914,11 +924,16 @@ SMOKF3D     4
  HRRPUV
  hrrpuv
  kW/m3
-SLCF     4 %top of window &     0     4     0    12    23    23
+SLCF     4 %window density &     1     1     0    12     0    31
  room_0004_01.sf
- TEMPERATURE
- temp
- C
+ DENSITY
+ rho
+ kg/m3
+SLCF     4 %window pressure &     1     1     0    12     0    31
+ room_0004_02.sf
+ PRESSURE
+ pres
+ Pa
 SMOKF3D     5
  room_0005_01.s3d
  SOOT MASS FRACTION
@@ -929,11 +944,16 @@ SMOKF3D     5
  HRRPUV
  hrrpuv
  kW/m3
-SLCF     5 %top of window &     0     4     0    12    23    23
+SLCF     5 %window density &     1     1     0    12     0    31
  room_0005_01.sf
- TEMPERATURE
- temp
- C
+ DENSITY
+ rho
+ kg/m3
+SLCF     5 %window pressure &     1     1     0    12     0    31
+ room_0005_02.sf
+ PRESSURE
+ pres
+ Pa
 SMOKF3D     6
  room_0006_01.s3d
  SOOT MASS FRACTION
@@ -944,8 +964,3 @@ SMOKF3D     6
  HRRPUV
  hrrpuv
  kW/m3
-SLCF     6 %top of window &     0    23     0    32    23    23
- room_0006_01.sf
- TEMPERATURE
- temp
- C

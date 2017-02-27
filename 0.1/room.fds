@@ -42,7 +42,8 @@
 
 &DUMP DT_SL3D=0.1 /
 
-&SLCF PBZ=230., QUANTITY='TEMPERATURE', ID='top of window'/
+&SLCF PBX=200., QUANTITY='DENSITY', ID='window density'/
+&SLCF PBX=200., QUANTITY='PRESSURE', ID='window pressure'/
 
 &TAIL /
 
