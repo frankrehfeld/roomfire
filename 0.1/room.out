@@ -1,7 +1,7 @@
 
  Fire Dynamics Simulator
 
- Current Date     : February 27, 2017  09:19:49
+ Current Date     : March  3, 2017  17:34:23
  Version          : FDS 6.5.3
  Revision         : FDS6.5.3-801-ga75adfa
  Revision Date    : Mon Feb 20 14:43:26 2017 -0500
@@ -393,7 +393,7 @@
 
  Run Time Diagnostics
 
-       Time Step       1   February 27, 2017  09:19:50
+       Time Step       1   March  3, 2017  17:34:24
        Step Size:    0.180E+00 s, Total Time:       0.18 s
        Pressure Iterations:      2
        Maximum Velocity Error:  0.84E-01 on Mesh   2 at (   1   9   1)
@@ -437,7 +437,7 @@
        Max VN number:   0.30E-03 at (  20,  21,   1)
        Radiation Loss to Boundaries:        -6.093 kW
 
-       Time Step       2   February 27, 2017  09:19:51
+       Time Step       2   March  3, 2017  17:34:24
        Step Size:    0.180E+00 s, Total Time:       0.36 s
        Pressure Iterations:      2
        Maximum Velocity Error:  0.26E+00 on Mesh   1 at (  26  16   1)
@@ -481,7 +481,7 @@
        Max VN number:   0.30E-03 at (  20,  21,   1)
        Radiation Loss to Boundaries:        -6.092 kW
 
-       Time Step       3   February 27, 2017  09:19:51
+       Time Step       3   March  3, 2017  17:34:25
        Step Size:    0.180E+00 s, Total Time:       0.54 s
        Pressure Iterations:      3
        Maximum Velocity Error:  0.30E+00 on Mesh   2 at (   1   9   1)
@@ -525,7 +525,7 @@
        Max VN number:   0.40E-03 at (   1,  17,   1)
        Radiation Loss to Boundaries:        -6.086 kW
 
-       Time Step       4   February 27, 2017  09:19:52
+       Time Step       4   March  3, 2017  17:34:25
        Step Size:    0.180E+00 s, Total Time:       0.72 s
        Pressure Iterations:      4
        Maximum Velocity Error:  0.13E+00 on Mesh   1 at (  26  21   1)
@@ -569,7 +569,7 @@
        Max VN number:   0.55E-03 at (   1,  17,   1)
        Radiation Loss to Boundaries:        -3.233 kW
 
-       Time Step       5   February 27, 2017  09:19:52
+       Time Step       5   March  3, 2017  17:34:26
        Step Size:    0.180E+00 s, Total Time:       0.90 s
        Pressure Iterations:      2
        Maximum Velocity Error:  0.16E+00 on Mesh   2 at (   1   0   1)
@@ -613,7 +613,7 @@
        Max VN number:   0.40E-03 at (   9,   8,   1)
        Radiation Loss to Boundaries:        -3.191 kW
 
-       Time Step       6   February 27, 2017  09:19:53
+       Time Step       6   March  3, 2017  17:34:26
        Step Size:    0.180E+00 s, Total Time:       1.08 s
        Pressure Iterations:      2
        Maximum Velocity Error:  0.17E+00 on Mesh   1 at (  26  13  20)
@@ -657,7 +657,7 @@
        Max VN number:   0.41E-03 at (   9,   8,   1)
        Radiation Loss to Boundaries:        -3.143 kW
 
-       Time Step       7   February 27, 2017  09:19:53
+       Time Step       7   March  3, 2017  17:34:26
        Step Size:    0.180E+00 s, Total Time:       1.26 s
        Pressure Iterations:      1
        Maximum Velocity Error:  0.28E+00 on Mesh   2 at (   1   1  20)
@@ -701,7 +701,7 @@
        Max VN number:   0.42E-03 at (   9,   8,   1)
        Radiation Loss to Boundaries:        -2.070 kW
 
-       Time Step       8   February 27, 2017  09:19:53
+       Time Step       8   March  3, 2017  17:34:27
        Step Size:    0.180E+00 s, Total Time:       1.44 s
        Pressure Iterations:      3
        Maximum Velocity Error:  0.33E+00 on Mesh   2 at (   1   1  20)
@@ -745,7 +745,7 @@
        Max VN number:   0.44E-03 at (   1,   5,   1)
        Radiation Loss to Boundaries:        -2.017 kW
 
-       Time Step       9   February 27, 2017  09:19:54
+       Time Step       9   March  3, 2017  17:34:27
        Step Size:    0.180E+00 s, Total Time:       1.62 s
        Pressure Iterations:      3
        Maximum Velocity Error:  0.36E+00 on Mesh   2 at (   1   1  20)
@@ -789,7 +789,7 @@
        Max VN number:   0.42E-03 at (   9,   8,   1)
        Radiation Loss to Boundaries:        -1.979 kW
 
-       Time Step      10   February 27, 2017  09:19:54
+       Time Step      10   March  3, 2017  17:34:28
        Step Size:    0.180E+00 s, Total Time:       1.80 s
        Pressure Iterations:      3
        Maximum Velocity Error:  0.37E+00 on Mesh   4 at (   1  13  20)
@@ -833,7 +833,7 @@
        Max VN number:   0.41E-03 at (   9,   8,   1)
        Radiation Loss to Boundaries:        -1.301 kW
 
-       Time Step      20   February 27, 2017  09:19:59
+       Time Step      20   March  3, 2017  17:34:32
        Step Size:    0.180E+00 s, Total Time:       3.59 s
        Pressure Iterations:      2
        Maximum Velocity Error:  0.18E+00 on Mesh   1 at (  26  12   1)
@@ -877,7 +877,7 @@
        Max VN number:   0.72E-03 at (   1,  15,  21)
        Radiation Loss to Boundaries:        -0.119 kW
 
-       Time Step      30   February 27, 2017  09:20:04
+       Time Step      30   March  3, 2017  17:34:37
        Step Size:    0.121E+00 s, Total Time:       5.14 s
        Pressure Iterations:      5
        Maximum Velocity Error:  0.49E+00 on Mesh   4 at (   1  13  25)
@@ -921,7 +921,7 @@
        Max VN number:   0.13E-02 at (   1,  16,  22)
        Radiation Loss to Boundaries:         0.609 kW
 
-       Time Step      40   February 27, 2017  09:20:10
+       Time Step      40   March  3, 2017  17:34:43
        Step Size:    0.637E-01 s, Total Time:       6.02 s
        Pressure Iterations:      7
        Maximum Velocity Error:  0.44E+00 on Mesh   2 at (   1   1  20)
@@ -965,7 +965,7 @@
        Max VN number:   0.15E-02 at (   1,  16,  22)
        Radiation Loss to Boundaries:         1.535 kW
 
-       Time Step      50   February 27, 2017  09:20:16
+       Time Step      50   March  3, 2017  17:34:49
        Step Size:    0.418E-01 s, Total Time:       6.54 s
        Pressure Iterations:      4
        Maximum Velocity Error:  0.26E+00 on Mesh   1 at (  26  14  25)
@@ -1009,7 +1009,7 @@
        Max VN number:   0.20E-02 at (   1,  18,  22)
        Radiation Loss to Boundaries:        18.848 kW
 
-       Time Step      60   February 27, 2017  09:20:22
+       Time Step      60   March  3, 2017  17:34:55
        Step Size:    0.331E-01 s, Total Time:       6.92 s
        Pressure Iterations:      5
        Maximum Velocity Error:  0.15E+00 on Mesh   4 at (   1  13  25)
@@ -1053,7 +1053,7 @@
        Max VN number:   0.29E-02 at (   1,  18,  22)
        Radiation Loss to Boundaries:        25.222 kW
 
-       Time Step      70   February 27, 2017  09:20:29
+       Time Step      70   March  3, 2017  17:35:01
        Step Size:    0.297E-01 s, Total Time:       7.23 s
        Pressure Iterations:      7
        Maximum Velocity Error:  0.92E-01 on Mesh   1 at (  26  19  24)
@@ -1097,7 +1097,7 @@
        Max VN number:   0.50E-02 at (   1,  15,  22)
        Radiation Loss to Boundaries:        28.621 kW
 
-       Time Step      80   February 27, 2017  09:20:35
+       Time Step      80   March  3, 2017  17:35:07
        Step Size:    0.267E-01 s, Total Time:       7.51 s
        Pressure Iterations:      6
        Maximum Velocity Error:  0.74E-01 on Mesh   1 at (  26  17  20)
@@ -1141,7 +1141,7 @@
        Max VN number:   0.10E-01 at (   1,  15,  22)
        Radiation Loss to Boundaries:        29.235 kW
 
-       Time Step      90   February 27, 2017  09:20:41
+       Time Step      90   March  3, 2017  17:35:13
        Step Size:    0.238E-01 s, Total Time:       7.76 s
        Pressure Iterations:      6
        Maximum Velocity Error:  0.94E-01 on Mesh   6 at (   0  16  23)
@@ -1185,7 +1185,7 @@
        Max VN number:   0.20E-01 at (   1,  19,  22)
        Radiation Loss to Boundaries:        33.513 kW
 
-       Time Step     100   February 27, 2017  09:20:47
+       Time Step     100   March  3, 2017  17:35:19
        Step Size:    0.238E-01 s, Total Time:       8.00 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.21E+00 on Mesh   2 at (   1   1  20)
@@ -1229,7 +1229,7 @@
        Max VN number:   0.40E-01 at (   1,  19,  22)
        Radiation Loss to Boundaries:        42.905 kW
 
-       Time Step     200   February 27, 2017  09:21:52
+       Time Step     200   March  3, 2017  17:36:24
        Step Size:    0.956E-02 s, Total Time:       9.36 s
        Pressure Iterations:      7
        Maximum Velocity Error:  0.82E-01 on Mesh   2 at (   1   1  20)
@@ -1273,7 +1273,7 @@
        Max VN number:   0.30E-01 at (   1,  19,  22)
        Radiation Loss to Boundaries:       461.969 kW
 
-       Time Step     300   February 27, 2017  09:22:56
+       Time Step     300   March  3, 2017  17:37:27
        Step Size:    0.941E-02 s, Total Time:      10.26 s
        Pressure Iterations:      6
        Maximum Velocity Error:  0.20E+00 on Mesh   2 at (   1   0   1)
@@ -1317,7 +1317,7 @@
        Max VN number:   0.40E-01 at (   9,  17,  25)
        Radiation Loss to Boundaries:      1315.494 kW
 
-       Time Step     400   February 27, 2017  09:24:00
+       Time Step     400   March  3, 2017  17:38:29
        Step Size:    0.112E-01 s, Total Time:      11.21 s
        Pressure Iterations:      6
        Maximum Velocity Error:  0.65E-01 on Mesh   6 at (   0  15  22)
@@ -1361,7 +1361,7 @@
        Max VN number:   0.52E-01 at (  16,  15,  22)
        Radiation Loss to Boundaries:       394.429 kW
 
-       Time Step     500   February 27, 2017  09:25:03
+       Time Step     500   March  3, 2017  17:39:32
        Step Size:    0.881E-02 s, Total Time:      12.27 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.14E+00 on Mesh   2 at (   1   8  20)
@@ -1406,7 +1406,7 @@
        Max VN number:   0.39E-01 at (  20,  14,  21)
        Radiation Loss to Boundaries:       340.895 kW
 
-       Time Step     600   February 27, 2017  09:26:09
+       Time Step     600   March  3, 2017  17:40:36
        Step Size:    0.881E-02 s, Total Time:      13.15 s
        Pressure Iterations:      6
        Maximum Velocity Error:  0.34E+00 on Mesh   2 at (   1   0   1)
@@ -1454,7 +1454,7 @@
        Max VN number:   0.44E-01 at (   1,  14,  23)
        Radiation Loss to Boundaries:       538.517 kW
 
-       Time Step     700   February 27, 2017  09:27:17
+       Time Step     700   March  3, 2017  17:41:43
        Step Size:    0.610E-02 s, Total Time:      13.91 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.58E-01 on Mesh   1 at (  26  16   1)
@@ -1503,7 +1503,7 @@
        Total Heat Release Rate:            182.515 kW
        Radiation Loss to Boundaries:       886.182 kW
 
-       Time Step     800   February 27, 2017  09:28:30
+       Time Step     800   March  3, 2017  17:42:55
        Step Size:    0.590E-02 s, Total Time:      14.50 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.16E+00 on Mesh   5 at (   1   0  21)
@@ -1552,7 +1552,7 @@
        Total Heat Release Rate:            851.971 kW
        Radiation Loss to Boundaries:       385.248 kW
 
-       Time Step     900   February 27, 2017  09:29:46
+       Time Step     900   March  3, 2017  17:44:10
        Step Size:    0.583E-02 s, Total Time:      15.07 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.83E-01 on Mesh   3 at (   6  40  12)
@@ -1601,7 +1601,7 @@
        Total Heat Release Rate:            557.002 kW
        Radiation Loss to Boundaries:      -537.168 kW
 
-       Time Step    1000   February 27, 2017  09:31:02
+       Time Step    1000   March  3, 2017  17:45:25
        Step Size:    0.505E-02 s, Total Time:      15.62 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.19E+00 on Mesh   2 at (   1   1  20)
@@ -1650,7 +1650,7 @@
        Total Heat Release Rate:            237.194 kW
        Radiation Loss to Boundaries:      -857.102 kW
 
-       Time Step    1100   February 27, 2017  09:32:15
+       Time Step    1100   March  3, 2017  17:46:37
        Step Size:    0.555E-02 s, Total Time:      16.15 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.24E+00 on Mesh   1 at (  26  19  22)
@@ -1699,7 +1699,7 @@
        Total Heat Release Rate:            852.423 kW
        Radiation Loss to Boundaries:     -3026.515 kW
 
-       Time Step    1200   February 27, 2017  09:33:30
+       Time Step    1200   March  3, 2017  17:47:51
        Step Size:    0.549E-02 s, Total Time:      16.70 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.29E+00 on Mesh   1 at (  26  14  23)
@@ -1748,7 +1748,7 @@
        Total Heat Release Rate:            789.646 kW
        Radiation Loss to Boundaries:     -3968.655 kW
 
-       Time Step    1300   February 27, 2017  09:34:47
+       Time Step    1300   March  3, 2017  17:49:06
        Step Size:    0.468E-02 s, Total Time:      17.22 s
        Pressure Iterations:      9
        Maximum Velocity Error:  0.15E+00 on Mesh   2 at (   1   8  20)
@@ -1797,7 +1797,7 @@
        Total Heat Release Rate:           1360.820 kW
        Radiation Loss to Boundaries:     -4198.248 kW
 
-       Time Step    1400   February 27, 2017  09:36:05
+       Time Step    1400   March  3, 2017  17:50:23
        Step Size:    0.423E-02 s, Total Time:      17.68 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.10E+00 on Mesh   2 at (   2   5  20)
@@ -1846,7 +1846,7 @@
        Total Heat Release Rate:            320.938 kW
        Radiation Loss to Boundaries:     -3146.721 kW
 
-       Time Step    1500   February 27, 2017  09:37:23
+       Time Step    1500   March  3, 2017  17:51:40
        Step Size:    0.416E-02 s, Total Time:      18.10 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.11E+00 on Mesh   4 at (   1  13  20)
@@ -1895,7 +1895,7 @@
        Total Heat Release Rate:             77.817 kW
        Radiation Loss to Boundaries:      2089.347 kW
 
-       Time Step    1600   February 27, 2017  09:38:40
+       Time Step    1600   March  3, 2017  17:52:56
        Step Size:    0.368E-02 s, Total Time:      18.51 s
        Pressure Iterations:      9
        Maximum Velocity Error:  0.24E+00 on Mesh   5 at (   1   0  24)
@@ -1944,7 +1944,7 @@
        Total Heat Release Rate:            464.922 kW
        Radiation Loss to Boundaries:      4166.776 kW
 
-       Time Step    1700   February 27, 2017  09:39:57
+       Time Step    1700   March  3, 2017  17:54:12
        Step Size:    0.302E-02 s, Total Time:      18.85 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.18E+00 on Mesh   3 at (   6  11   1)
@@ -1993,7 +1993,7 @@
        Total Heat Release Rate:           2166.692 kW
        Radiation Loss to Boundaries:      4407.706 kW
 
-       Time Step    1800   February 27, 2017  09:41:16
+       Time Step    1800   March  3, 2017  17:55:30
        Step Size:    0.311E-02 s, Total Time:      19.16 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.37E+00 on Mesh   5 at (   1   0  25)
@@ -2042,7 +2042,7 @@
        Total Heat Release Rate:            340.413 kW
        Radiation Loss to Boundaries:      4604.121 kW
 
-       Time Step    1900   February 27, 2017  09:42:34
+       Time Step    1900   March  3, 2017  17:56:47
        Step Size:    0.245E-02 s, Total Time:      19.44 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.32E+00 on Mesh   1 at (  26  17  24)
@@ -2091,7 +2091,7 @@
        Total Heat Release Rate:          15488.168 kW
        Radiation Loss to Boundaries:     20243.426 kW
 
-       Time Step    2000   February 27, 2017  09:43:53
+       Time Step    2000   March  3, 2017  17:58:05
        Step Size:    0.290E-02 s, Total Time:      19.71 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.63E+00 on Mesh   1 at (  26  16  24)
@@ -2140,7 +2140,7 @@
        Total Heat Release Rate:          28709.132 kW
        Radiation Loss to Boundaries:     28841.417 kW
 
-       Time Step    2100   February 27, 2017  09:45:10
+       Time Step    2100   March  3, 2017  17:59:21
        Step Size:    0.260E-02 s, Total Time:      19.99 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.15E+01 on Mesh   4 at (   1  13  25)
@@ -2189,7 +2189,7 @@
        Total Heat Release Rate:           9885.355 kW
        Radiation Loss to Boundaries:      4389.899 kW
 
-       Time Step    2200   February 27, 2017  09:46:27
+       Time Step    2200   March  3, 2017  18:00:37
        Step Size:    0.236E-02 s, Total Time:      20.23 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.21E+01 on Mesh   1 at (  26  14  25)
@@ -2238,7 +2238,7 @@
        Total Heat Release Rate:           8189.008 kW
        Radiation Loss to Boundaries:     14484.902 kW
 
-       Time Step    2300   February 27, 2017  09:47:45
+       Time Step    2300   March  3, 2017  18:01:54
        Step Size:    0.171E-02 s, Total Time:      20.43 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.43E+00 on Mesh   4 at (   1  13  25)
@@ -2287,7 +2287,7 @@
        Total Heat Release Rate:           7119.760 kW
        Radiation Loss to Boundaries:     33860.611 kW
 
-       Time Step    2400   February 27, 2017  09:49:04
+       Time Step    2400   March  3, 2017  18:03:12
        Step Size:    0.167E-02 s, Total Time:      20.59 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.43E+00 on Mesh   3 at (   6  13   1)
@@ -2336,7 +2336,7 @@
        Total Heat Release Rate:           2224.194 kW
        Radiation Loss to Boundaries:      7076.516 kW
 
-       Time Step    2500   February 27, 2017  09:50:22
+       Time Step    2500   March  3, 2017  18:04:29
        Step Size:    0.163E-02 s, Total Time:      20.76 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.91E+00 on Mesh   1 at (  19  17  26)
@@ -2385,7 +2385,7 @@
        Total Heat Release Rate:           1167.356 kW
        Radiation Loss to Boundaries:     -2780.523 kW
 
-       Time Step    2600   February 27, 2017  09:51:41
+       Time Step    2600   March  3, 2017  18:05:46
        Step Size:    0.158E-02 s, Total Time:      20.91 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.68E+00 on Mesh   3 at (   3  40  31)
@@ -2434,7 +2434,7 @@
        Total Heat Release Rate:            657.021 kW
        Radiation Loss to Boundaries:     -6275.741 kW
 
-       Time Step    2700   February 27, 2017  09:52:58
+       Time Step    2700   March  3, 2017  18:07:03
        Step Size:    0.156E-02 s, Total Time:      21.06 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.33E+01 on Mesh   1 at (  26  16  25)
@@ -2483,7 +2483,7 @@
        Total Heat Release Rate:            273.588 kW
        Radiation Loss to Boundaries:     -6722.421 kW
 
-       Time Step    2800   February 27, 2017  09:54:14
+       Time Step    2800   March  3, 2017  18:08:18
        Step Size:    0.159E-02 s, Total Time:      21.21 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.33E+01 on Mesh   1 at (  26  17  25)
@@ -2532,7 +2532,7 @@
        Total Heat Release Rate:            264.882 kW
        Radiation Loss to Boundaries:      -155.461 kW
 
-       Time Step    2900   February 27, 2017  09:55:31
+       Time Step    2900   March  3, 2017  18:09:33
        Step Size:    0.151E-02 s, Total Time:      21.36 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.10E+02 on Mesh   1 at (  26  16  25)
@@ -2581,7 +2581,7 @@
        Total Heat Release Rate:          15553.460 kW
        Radiation Loss to Boundaries:     84228.208 kW
 
-       Time Step    3000   February 27, 2017  09:56:48
+       Time Step    3000   March  3, 2017  18:10:49
        Step Size:    0.148E-02 s, Total Time:      21.51 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.43E+01 on Mesh   3 at (   1  23  31)
@@ -2630,7 +2630,7 @@
        Total Heat Release Rate:         290032.927 kW
        Radiation Loss to Boundaries:    576047.003 kW
 
-       Time Step    3100   February 27, 2017  09:58:06
+       Time Step    3100   March  3, 2017  18:12:06
        Step Size:    0.127E-02 s, Total Time:      21.65 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.50E+01 on Mesh   1 at (  26  17  25)
@@ -2679,7 +2679,7 @@
        Total Heat Release Rate:         437089.976 kW
        Radiation Loss to Boundaries:    827055.857 kW
 
-       Time Step    3200   February 27, 2017  09:59:24
+       Time Step    3200   March  3, 2017  18:13:23
        Step Size:    0.127E-02 s, Total Time:      21.77 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.11E+01 on Mesh   1 at (  26  16  23)
@@ -2728,7 +2728,7 @@
        Total Heat Release Rate:        2216689.339 kW
        Radiation Loss to Boundaries:     -6243.865 kW
 
-       Time Step    3300   February 27, 2017  10:00:38
+       Time Step    3300   March  3, 2017  18:14:36
        Step Size:    0.125E-02 s, Total Time:      21.90 s
        Pressure Iterations:      6
        Maximum Velocity Error:  0.22E+01 on Mesh   1 at (  26  17  25)
@@ -2777,7 +2777,7 @@
        Total Heat Release Rate:        1172639.774 kW
        Radiation Loss to Boundaries:     16411.530 kW
 
-       Time Step    3400   February 27, 2017  10:01:53
+       Time Step    3400   March  3, 2017  18:15:50
        Step Size:    0.152E-02 s, Total Time:      22.04 s
        Pressure Iterations:      4
        Maximum Velocity Error:  0.24E+01 on Mesh   1 at (  26  16  23)
@@ -2826,7 +2826,7 @@
        Total Heat Release Rate:        1476626.430 kW
        Radiation Loss to Boundaries:    726372.327 kW
 
-       Time Step    3500   February 27, 2017  10:03:10
+       Time Step    3500   March  3, 2017  18:17:06
        Step Size:    0.180E-02 s, Total Time:      22.19 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.72E+00 on Mesh   1 at (  26  16  22)
@@ -2875,7 +2875,7 @@
        Total Heat Release Rate:        1162911.094 kW
        Radiation Loss to Boundaries:     27900.703 kW
 
-       Time Step    3600   February 27, 2017  10:04:28
+       Time Step    3600   March  3, 2017  18:18:23
        Step Size:    0.263E-02 s, Total Time:      22.40 s
        Pressure Iterations:      9
        Maximum Velocity Error:  0.74E+00 on Mesh   2 at (   1   0  12)
@@ -2924,7 +2924,7 @@
        Total Heat Release Rate:         949725.583 kW
        Radiation Loss to Boundaries:    670576.770 kW
 
-       Time Step    3700   February 27, 2017  10:05:47
+       Time Step    3700   March  3, 2017  18:19:41
        Step Size:    0.351E-02 s, Total Time:      22.70 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.18E+01 on Mesh   1 at (  26  17  22)
@@ -2973,7 +2973,7 @@
        Total Heat Release Rate:         191628.743 kW
        Radiation Loss to Boundaries:    547259.855 kW
 
-       Time Step    3800   February 27, 2017  10:07:06
+       Time Step    3800   March  3, 2017  18:20:59
        Step Size:    0.565E-02 s, Total Time:      23.16 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.31E+00 on Mesh   1 at (   7  18   2)
@@ -3022,7 +3022,7 @@
        Total Heat Release Rate:          10472.931 kW
        Radiation Loss to Boundaries:     11408.557 kW
 
-       Time Step    3900   February 27, 2017  10:08:25
+       Time Step    3900   March  3, 2017  18:22:16
        Step Size:    0.827E-02 s, Total Time:      23.84 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.64E+00 on Mesh   1 at (   7  14   1)
@@ -3071,7 +3071,7 @@
        Total Heat Release Rate:           1219.032 kW
        Radiation Loss to Boundaries:     -5663.697 kW
 
-       Time Step    4000   February 27, 2017  10:09:44
+       Time Step    4000   March  3, 2017  18:23:34
        Step Size:    0.105E-01 s, Total Time:      24.87 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.27E+00 on Mesh   2 at (   1   0   3)
@@ -3120,7 +3120,7 @@
        Total Heat Release Rate:             68.349 kW
        Radiation Loss to Boundaries:    -11376.069 kW
 
-       Time Step    4100   February 27, 2017  10:10:55
+       Time Step    4100   March  3, 2017  18:24:45
        Step Size:    0.102E-01 s, Total Time:      25.89 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.28E+00 on Mesh   1 at (   7  17   9)
@@ -3169,7 +3169,7 @@
        Total Heat Release Rate:              7.683 kW
        Radiation Loss to Boundaries:    -10021.459 kW
 
-       Time Step    4200   February 27, 2017  10:12:02
+       Time Step    4200   March  3, 2017  18:25:50
        Step Size:    0.112E-01 s, Total Time:      26.95 s
        Pressure Iterations:      6
        Maximum Velocity Error:  0.38E+00 on Mesh   2 at (   1   9   3)
@@ -3218,7 +3218,7 @@
        Total Heat Release Rate:              0.056 kW
        Radiation Loss to Boundaries:     -8854.816 kW
 
-       Time Step    4300   February 27, 2017  10:13:17
+       Time Step    4300   March  3, 2017  18:27:04
        Step Size:    0.950E-02 s, Total Time:      27.92 s
        Pressure Iterations:      7
        Maximum Velocity Error:  0.41E+00 on Mesh   1 at (  26  15  25)
@@ -3266,7 +3266,7 @@
        Max VN number:   0.31E-01 at (   1,  17,  20)
        Radiation Loss to Boundaries:     -2694.782 kW
 
-       Time Step    4400   February 27, 2017  10:14:34
+       Time Step    4400   March  3, 2017  18:28:19
        Step Size:    0.879E-02 s, Total Time:      28.79 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.95E-01 on Mesh   1 at (   7  18   2)
@@ -3315,7 +3315,7 @@
        Total Heat Release Rate:              1.691 kW
        Radiation Loss to Boundaries:       183.109 kW
 
-       Time Step    4500   February 27, 2017  10:15:47
+       Time Step    4500   March  3, 2017  18:29:31
        Step Size:    0.915E-02 s, Total Time:      29.63 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.67E-01 on Mesh   6 at (   0  14  20)
@@ -3364,7 +3364,7 @@
        Total Heat Release Rate:              1.693 kW
        Radiation Loss to Boundaries:    -10606.269 kW
 
-       Time Step    4600   February 27, 2017  10:17:03
+       Time Step    4600   March  3, 2017  18:30:46
        Step Size:    0.806E-02 s, Total Time:      30.43 s
        Pressure Iterations:      8
        Maximum Velocity Error:  0.86E-01 on Mesh   1 at (   7  17   1)
@@ -3413,7 +3413,7 @@
        Total Heat Release Rate:              2.959 kW
        Radiation Loss to Boundaries:    -12811.077 kW
 
-       Time Step    4700   February 27, 2017  10:18:17
+       Time Step    4700   March  3, 2017  18:31:59
        Step Size:    0.774E-02 s, Total Time:      31.20 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.84E-01 on Mesh   5 at (   1   0  21)
@@ -3462,7 +3462,7 @@
        Total Heat Release Rate:              1.780 kW
        Radiation Loss to Boundaries:    -13308.214 kW
 
-       Time Step    4800   February 27, 2017  10:19:30
+       Time Step    4800   March  3, 2017  18:33:12
        Step Size:    0.820E-02 s, Total Time:      32.00 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.30E+00 on Mesh   1 at (   7  18   2)
@@ -3511,7 +3511,7 @@
        Total Heat Release Rate:              1.283 kW
        Radiation Loss to Boundaries:    -16269.739 kW
 
-       Time Step    4900   February 27, 2017  10:20:42
+       Time Step    4900   March  3, 2017  18:34:22
        Step Size:    0.776E-02 s, Total Time:      32.82 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.11E+00 on Mesh   1 at (   7  17   1)
@@ -3560,7 +3560,7 @@
        Total Heat Release Rate:            110.409 kW
        Radiation Loss to Boundaries:    -16698.549 kW
 
-       Time Step    5000   February 27, 2017  10:21:55
+       Time Step    5000   March  3, 2017  18:35:34
        Step Size:    0.837E-02 s, Total Time:      33.65 s
        Pressure Iterations:      9
        Maximum Velocity Error:  0.33E-01 on Mesh   6 at (   0  18  23)
@@ -3609,7 +3609,7 @@
        Total Heat Release Rate:            443.145 kW
        Radiation Loss to Boundaries:    -21621.936 kW
 
-       Time Step    5100   February 27, 2017  10:23:10
+       Time Step    5100   March  3, 2017  18:36:48
        Step Size:    0.806E-02 s, Total Time:      34.49 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.87E-01 on Mesh   1 at (   7  15   1)
@@ -3658,7 +3658,7 @@
        Total Heat Release Rate:            387.898 kW
        Radiation Loss to Boundaries:    -19220.267 kW
 
-       Time Step    5200   February 27, 2017  10:24:24
+       Time Step    5200   March  3, 2017  18:38:01
        Step Size:    0.722E-02 s, Total Time:      35.28 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.63E-01 on Mesh   1 at (   7  17  12)
@@ -3707,7 +3707,7 @@
        Total Heat Release Rate:            201.666 kW
        Radiation Loss to Boundaries:    -24568.674 kW
 
-       Time Step    5300   February 27, 2017  10:25:39
+       Time Step    5300   March  3, 2017  18:39:15
        Step Size:    0.646E-02 s, Total Time:      35.94 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.97E-01 on Mesh   1 at (   7  14   3)
@@ -3756,7 +3756,7 @@
        Total Heat Release Rate:             65.613 kW
        Radiation Loss to Boundaries:    -25367.632 kW
 
-       Time Step    5400   February 27, 2017  10:26:55
+       Time Step    5400   March  3, 2017  18:40:30
        Step Size:    0.509E-02 s, Total Time:      36.48 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.22E+00 on Mesh   1 at (   7  14   1)
@@ -3805,7 +3805,7 @@
        Total Heat Release Rate:            281.035 kW
        Radiation Loss to Boundaries:    -31035.964 kW
 
-       Time Step    5500   February 27, 2017  10:28:12
+       Time Step    5500   March  3, 2017  18:41:45
        Step Size:    0.481E-02 s, Total Time:      36.98 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.14E+00 on Mesh   1 at (   7  14   2)
@@ -3854,7 +3854,7 @@
        Total Heat Release Rate:            214.748 kW
        Radiation Loss to Boundaries:    -30191.105 kW
 
-       Time Step    5600   February 27, 2017  10:29:28
+       Time Step    5600   March  3, 2017  18:43:01
        Step Size:    0.509E-02 s, Total Time:      37.48 s
        Pressure Iterations:      8
        Maximum Velocity Error:  0.25E+00 on Mesh   1 at (  26  19  25)
@@ -3903,7 +3903,7 @@
        Total Heat Release Rate:            635.985 kW
        Radiation Loss to Boundaries:    -26633.884 kW
 
-       Time Step    5700   February 27, 2017  10:30:45
+       Time Step    5700   March  3, 2017  18:44:17
        Step Size:    0.509E-02 s, Total Time:      37.99 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.11E+00 on Mesh   3 at (   1   2  31)
@@ -3952,7 +3952,7 @@
        Total Heat Release Rate:            599.944 kW
        Radiation Loss to Boundaries:    -30640.830 kW
 
-       Time Step    5800   February 27, 2017  10:32:03
+       Time Step    5800   March  3, 2017  18:45:33
        Step Size:    0.560E-02 s, Total Time:      38.52 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.46E-01 on Mesh   3 at (   6  40  13)
@@ -4001,7 +4001,7 @@
        Total Heat Release Rate:            203.767 kW
        Radiation Loss to Boundaries:    -26375.158 kW
 
-       Time Step    5900   February 27, 2017  10:33:20
+       Time Step    5900   March  3, 2017  18:46:49
        Step Size:    0.581E-02 s, Total Time:      39.05 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.11E+00 on Mesh   3 at (   6  30   1)
@@ -4050,7 +4050,7 @@
        Total Heat Release Rate:             70.915 kW
        Radiation Loss to Boundaries:    -24576.105 kW
 
-       Time Step    6000   February 27, 2017  10:34:33
+       Time Step    6000   March  3, 2017  18:48:02
        Step Size:    0.639E-02 s, Total Time:      39.64 s
        Pressure Iterations:      4
        Maximum Velocity Error:  0.50E+00 on Mesh   3 at (   6   1  17)
@@ -4099,7 +4099,7 @@
        Total Heat Release Rate:             66.569 kW
        Radiation Loss to Boundaries:    -22485.229 kW
 
-       Time Step    6057   February 27, 2017  10:35:16
+       Time Step    6057   March  3, 2017  18:48:43
        Step Size:    0.105E-02 s, Total Time:      40.00 s
        Pressure Iterations:     10
        Maximum Velocity Error:  0.89E-01 on Mesh   1 at (  26  14  25)
@@ -4150,7 +4150,7 @@
 
 
 
- Time Stepping Wall Clock Time (s):     4526.323
- Total Elapsed Wall Clock Time (s):     4531.218
+ Time Stepping Wall Clock Time (s):     4460.659
+ Total Elapsed Wall Clock Time (s):     4465.472
 
 STOP: FDS completed successfully (CHID: room)
