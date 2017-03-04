@@ -864,26 +864,6 @@ VENT
 CVENT
     0
 
-SMOKF3D     1
- room_0001_01.s3d
- SOOT MASS FRACTION
- Y_C0.9H0.1
- kg/kg
-SMOKF3D     1
- room_0001_02.s3d
- HRRPUV
- hrrpuv
- kW/m3
-SMOKF3D     2
- room_0002_01.s3d
- SOOT MASS FRACTION
- Y_C0.9H0.1
- kg/kg
-SMOKF3D     2
- room_0002_02.s3d
- HRRPUV
- hrrpuv
- kW/m3
 SLCF     2 %window density &     1     1     0     8     0    19
  room_0002_01.sf
  DENSITY
@@ -894,16 +874,6 @@ SLCF     2 %window pressure &     1     1     0     8     0    19
  PRESSURE
  pres
  Pa
-SMOKF3D     3
- room_0003_01.s3d
- SOOT MASS FRACTION
- Y_C0.9H0.1
- kg/kg
-SMOKF3D     3
- room_0003_02.s3d
- HRRPUV
- hrrpuv
- kW/m3
 SLCF     3 %window density &     5     5     0    40     0    60
  room_0003_01.sf
  DENSITY
@@ -914,16 +884,6 @@ SLCF     3 %window pressure &     5     5     0    40     0    60
  PRESSURE
  pres
  Pa
-SMOKF3D     4
- room_0004_01.s3d
- SOOT MASS FRACTION
- Y_C0.9H0.1
- kg/kg
-SMOKF3D     4
- room_0004_02.s3d
- HRRPUV
- hrrpuv
- kW/m3
 SLCF     4 %window density &     1     1     0    12     0    31
  room_0004_01.sf
  DENSITY
@@ -934,16 +894,6 @@ SLCF     4 %window pressure &     1     1     0    12     0    31
  PRESSURE
  pres
  Pa
-SMOKF3D     5
- room_0005_01.s3d
- SOOT MASS FRACTION
- Y_C0.9H0.1
- kg/kg
-SMOKF3D     5
- room_0005_02.s3d
- HRRPUV
- hrrpuv
- kW/m3
 SLCF     5 %window density &     1     1     0    12     0    31
  room_0005_01.sf
  DENSITY
@@ -954,13 +904,3 @@ SLCF     5 %window pressure &     1     1     0    12     0    31
  PRESSURE
  pres
  Pa
-SMOKF3D     6
- room_0006_01.s3d
- SOOT MASS FRACTION
- Y_C0.9H0.1
- kg/kg
-SMOKF3D     6
- room_0006_02.s3d
- HRRPUV
- hrrpuv
- kW/m3

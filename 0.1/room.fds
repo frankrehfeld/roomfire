@@ -40,7 +40,7 @@
 
 # DATA
 
-&DUMP DT_SL3D=0.1 /
+&DUMP DT_SL3D=0.1, SMOKE3D=.FALSE. /
 
 &SLCF PBX=200., QUANTITY='DENSITY', ID='window density'/
 &SLCF PBX=200., QUANTITY='PRESSURE', ID='window pressure'/
